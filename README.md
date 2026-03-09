@@ -118,7 +118,7 @@ All scrapers must output CSV files with **exactly these columns** so data from a
 | Name | Role |
 |---|---|
 | Andrew Maina |  — Naivas Scraper |
-| *(Collaborator)* |  — Quickmart Scraper |
+| Alois Gitau |  — Quickmart Scraper |
 
 ---
 
