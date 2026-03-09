@@ -1,0 +1,54 @@
+# ================================================
+# Kenya Food Price Tracker — .gitignore
+# ================================================
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+scraping_env/
+price_tracker_env/
+
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Excel files (large, auto-generated from CSV)
+*.xlsx
+*.xls
+
+# Large data files (use CSV instead)
+*.zip
+*.tar.gz
+
+# Credentials and secrets (NEVER commit these)
+*.env
+config.py
+secrets.py
+credentials.json
+
+# Logs
+*.log
+logs/
+
+# OS files
+*.swp
+*.swo

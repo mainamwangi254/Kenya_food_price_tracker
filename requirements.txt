@@ -1,0 +1,24 @@
+# ================================================
+# Kenya Food Price Tracker — Requirements
+# ================================================
+# Install all with: pip install -r requirements.txt
+#
+# NOTE: This file grows as the project grows.
+# When you add a new library, add it here too.
+# ================================================
+
+# --- SCRAPING (currently in use) ---
+requests==2.31.0          # Sending HTTP requests to websites
+cloudscraper==1.2.71      # Bypassing Cloudflare bot protection
+beautifulsoup4==4.12.0    # Reading and extracting data from HTML
+
+# --- DATA HANDLING (currently in use) ---
+pandas==2.0.0             # Organising and saving scraped data
+openpyxl==3.1.0           # Saving data to Excel .xlsx format
+
+# ================================================
+# COMING SOON — will be added as project grows
+# ================================================
+# selenium                # For JavaScript-heavy websites
+# schedule                # For automated daily scraping
+# numpy                   # For price calculations and analysis
