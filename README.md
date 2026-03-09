@@ -19,7 +19,7 @@ Once we have reliable data from multiple stores, we will build the comparison an
 | Supermarket | Status | Maintainer |
 |---|---|---|
 | Naivas Online | ✅ Complete — 1,156 products collected | Andrew Maina |
-| Quickmart | 🔄 In Progress | *(Collaborator)* |
+| Quickmart | 🔄 In Progress | Alois Gitau |
 
 ---
 
@@ -117,8 +117,8 @@ All scrapers must output CSV files with **exactly these columns** so data from a
 
 | Name | Role |
 |---|---|
-| Andrew Maina | Lead Developer — Naivas Scraper |
-| *(Collaborator)* | Developer — Quickmart Scraper |
+| Andrew Maina |  — Naivas Scraper |
+| *(Collaborator)* |  — Quickmart Scraper |
 
 ---
 
